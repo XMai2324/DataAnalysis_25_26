@@ -1,0 +1,13 @@
+streamlit
+yfinance
+yahoo_fin
+selenium
+webdriver-manager
+beautifulsoup4
+requests
+pandas
+numpy
+matplotlib
+plotly
+bs4
+lxml
